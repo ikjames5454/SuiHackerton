@@ -33,7 +33,7 @@ function Hero() {
         </p>
             
         <p>
-        The Sui Lagos Hacker House is implemented by <span className='font-bold'>Semicolon</span> and sponsored by
+        The Sui Lagos Hacker House is implemented by <a href='https://semicolon.africa/.' className='underline'><span className='font-bold'>Semicolon</span></a> and sponsored by
         the <a href='https://sui.io/about' className='underline'><span className='font-bold'>Sui Foundation.</span></a>
         </p>
     </div>
